@@ -248,4 +248,4 @@ uptime
 ---
 
 **Repository:** Linux System Administration & Troubleshooting Labs  
-**Author:** Sanjana H.P.
+**Author:** Sanjana H.P
