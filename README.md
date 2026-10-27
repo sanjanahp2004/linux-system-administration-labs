@@ -1,4 +1,4 @@
-# Linux System Administration & Troubleshooting Labs.
+# Linux System Administration & Troubleshooting Labs
 
 A practical learning repository documenting my Linux knowledge, command-line practice, system administration exercises, and troubleshooting activities.
 
