@@ -10,7 +10,7 @@ An Operating System (OS) is system software that manages computer hardware and s
 - File system management
 - Device management
 - Security and access control
-- Resource allocation.
+- Resource allocation
 
 **Examples:** Linux, Microsoft Windows, macOS, Android.
 
